@@ -1,5 +1,5 @@
 ## Hi there 👋I'm GQGQX
-
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=GQGQX&theme=github)
 <!--
 **GQGQX/GQGQX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
