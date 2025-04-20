@@ -3,9 +3,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,aws)](https://skillicons.dev)
 
-![Visitor Count](https://profile-counter.glitch.me/GQGQX/count.svg)
+![](https://img.shields.io/badge/讨厌-学习-yellow)
+
+![](https://img.shields.io/badge/爱好-打电动-red)
 
 ![GQGQX](https://avatars.githubusercontent.com/u/182654734?v=4)
+
+![Visitor Count](https://profile-counter.glitch.me/GQGQX/count.svg)
+
+
 
 <!--
 **GQGQX/GQGQX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
