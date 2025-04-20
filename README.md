@@ -1,8 +1,11 @@
 ## Hi there 👋I'm GQGQX
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GQGQX&show_icons=true&theme=radical)
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,aws)](https://skillicons.dev)
 
 ![Visitor Count](https://profile-counter.glitch.me/GQGQX/count.svg)
+
+![GQGQX](https://avatars.githubusercontent.com/u/182654734?v=4)
 
 <!--
 **GQGQX/GQGQX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
